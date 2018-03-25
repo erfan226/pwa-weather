@@ -1,4 +1,4 @@
 # Simple Weather Progressive Web App
-* Includes manifests and Icon
+* Includes Manifest and Icon
 * Service Workers to be implemented
 * Views to be improved

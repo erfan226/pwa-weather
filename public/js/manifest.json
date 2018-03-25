@@ -1,0 +1,16 @@
+{
+  "name": "Weather App",
+  "short_name": "Weather",
+  "description": "Weather app by Erfan.",
+  "theme_color": "#37afa3",
+  "background_color": "#37afa3",
+  "start_url": "/",
+  "display": "standalone",
+  "icons": [
+    {
+    "src": "/favicon.png",
+    "sizes": "512x512",
+    "type": "image/png"
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 # Weather Forecast PWA
 * Include Manifest file and Icons
 * Implement Service Workers for Offline Use
-* Define NPM Scripts for Different Commands
+* Define Some NPM Commands
 
 Clone the Project and then run **npm i** to install the required packages. Then start the app by **node app.js**!
 
